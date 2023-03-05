@@ -1,9 +1,9 @@
 {
   "name": "notepad",
   "version": "1.0.0",
-  "description": "notepad mern project",
+  "description": "Noteapp built with React, Node, Express, MongoDB",
   "main": "server.js",
-  "author": "",
+  "author": "Meshach Ekene",
   "scripts": {
     "watch": "sass --watch ./public/css/style.scss ./dist/css/output.css",
     "start": "node server",
